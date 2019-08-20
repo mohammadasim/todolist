@@ -5,4 +5,9 @@ body{
     width: 360px;
     margin: 0 auto;
     background: palevioletred;
+    border: 2px solid grey;
+}
+.completed{
+    color: grey;
+    text-decoration: line-through;
 }
